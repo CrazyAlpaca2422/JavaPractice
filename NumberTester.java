@@ -1,5 +1,4 @@
-/*  SWENG 586 - Coding Challenge 5
- *   By Lauren Hutchison
+/*   By Lauren Hutchison
  *   6/10/2018
  */
 package com.company;
